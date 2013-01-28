@@ -10,7 +10,7 @@ Calvin Tennant
 
 `SLIDE 2`
 
-If a discussion about your next project's information architecture includes the question: "So, what's going in the navbar?", you're doing it wrong.
+If a discussion about you're next project's information architecture includes the question: "So, what's going in the navbar?", you're doing it wrong.
 
 I need to be clear: when I'm using the term navbar, I'm discussing the series of toggle buttons commonly presented at the top of a website that bring you to important internal pages.
 
@@ -18,7 +18,7 @@ Navbars have served the web-development community pretty well over the last fift
 
 `SLIDE 3`
 
-Oversized navbars are a poor navigational solution because they require the ability to define the purpose of an endpoint, often without context, in one or two words. Context can often be provided by using a series of nested links that linearly classify your applications pages, but this is a band-aid solution that usually ends up providing too much information to the user, and complicating their decisions
+Oversized navbars are a poor navigational solution because they require the ability to define the purpose of an endpoint, often without context, in one or two words. Context can often be provided by using a series of nested links that linearly classify you're applications pages, but this is a band-aid solution that usually ends up providing too much information to the user, and complicating their decisions
 
 `SLIDE 4`
 `Aside on linear classification, draw a line in the sand between two endpoints.`
@@ -27,7 +27,7 @@ We all know that that's not what the internet looks like.
 
 `SLIDE 5`
 
-So, what does the network look like? Depending on the types of information your product collects, it probably looks a lot like this. I hate to pick on Ebay, but let's take another look there for a second. I'm willing to bet that there's a lot of overlap going on between these categories. You can imagine a lot of products that belong in 'Sporting goods' also belong in 'Toys & hobbies'. Now, that being said, I don't exactly know what the navigational solution for Ebay is, but I don't think top-down linear classification is working.
+So, what does the network look like? Depending on the types of information you're product collects, it probably looks a lot like this. I hate to pick on Ebay, but let's take another look there for a second. I'm willing to bet that there's a lot of overlap going on between these categories. You can imagine a lot of products that belong in 'Sporting goods' also belong in 'Toys & hobbies'. Now, that being said, I don't exactly know what the navigational solution for Ebay is, but I don't think top-down linear classification is working.
 
 `SLIDE 6`
 
