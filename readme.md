@@ -20,8 +20,6 @@ Navbars have served the web-development community pretty well over the last fift
 
 Oversized navbars are a poor navigational solution because they require the ability to define the purpose of an endpoint, often without context, in one or two words. Context can often be provided by using a series of nested links that linearly classify you're applications pages, but this is a band-aid solution that usually ends up providing too much information to the user, and complicating their decisions
 
-`see: ebay` `discuss the duplicate menus`
-
 `SLIDE 4`
 `Aside on linear classification, draw a line in the sand between two endpoints.`
 
