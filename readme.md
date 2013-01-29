@@ -27,7 +27,7 @@ We all know that that's not what the internet looks like.
 
 `SLIDE 5`
 
-So, what does the network look like? Depending on the types of information you're product collects, it probably looks a lot like this. I hate to pick on Ebay, but let's take another look there for a second. I'm willing to bet that there's a lot of overlap going on between these categories. You can imagine a lot of products that belong in 'Sporting goods' also belong in 'Toys & hobbies'. Now, that being said, I don't exactly know what the navigational solution for Ebay is, but I don't think top-down linear classification is working.
+So, what does the network look like? Depending on the types of information your product collects, it probably looks a lot like this. I hate to pick on Ebay, but let's take another look there for a second. I'm willing to bet that there's a lot of overlap going on between these categories. You can imagine a lot of products that belong in 'Sporting goods' also belong in 'Toys & hobbies'. Now, that being said, I don't exactly know what the navigational solution for Ebay is, but I don't think top-down linear classification is working.
 
 `SLIDE 6`
 
